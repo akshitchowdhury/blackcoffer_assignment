@@ -1,5 +1,3 @@
-![image](https://github.com/akshitchowdhury/blackcoffer_assignment/assets/101483800/1b016386-62a9-4a48-8861-512df57451d7)# Blackcoffer Data Visualization Dashboard
-
 This repository contains a data visualization dashboard developed using the MERN Stack (MongoDB, Express.js, React.js, Node.js). The dashboard utilizes the provided JSON data to create interactive charts and visuals, allowing users to gain insights from the data.
 
 ## Features
