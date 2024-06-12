@@ -71,5 +71,4 @@ Insert screenshots of your dashboard here to provide a visual representation of 
 
 Include any additional notes, acknowledgments, or instructions necessary for running the application effectively.
 
-## Contributors
 
